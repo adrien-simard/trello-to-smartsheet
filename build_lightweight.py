@@ -32,10 +32,11 @@ def build_exe():
         '--exclude-module=pytest',
         '--exclude-module=setuptools',
         '--exclude-module=wheel',
+        '--exclude-module=IPython',
+        '--exclude-module=notebook',
 
         # Optimisations
-        '--strip',                      # Strip les symboles (si disponible)
-        '--noupx',                      # Ne pas utiliser UPX (peut causer des problèmes)
+        '--noupx',                      # Ne pas utiliser UPX (évite des problèmes)
 
         # Fichier principal
         'trello_gui.py'
