@@ -130,6 +130,8 @@ If you want to provide custom email addresses, create an Excel file with this st
 - **Column 2**: Corresponding email address
 - **First row is the header** (will be skipped)
 
+**📥 Download the example file**: [email_mapping_example.xlsx](email_mapping_example.xlsx)
+
 **Note**: If no mapping file is provided, the tool will automatically generate emails from member names.
 
 ## Using Card View in Smartsheet
