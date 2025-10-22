@@ -6,7 +6,8 @@
 
 A modern, lightweight desktop application for migrating Trello boards to Smartsheet, preserving Kanban structure, cards, comments, and member assignments.
 
-![Migration Tool Screenshot](https://via.placeholder.com/800x500/0079BF/FFFFFF?text=Trello+%E2%86%92+Smartsheet+Migration+Tool)
+![Migration Tool Screenshot](screenshots/app-screenshot.jpg)
+*Modern UI with card-based design and Trello blue theme*
 
 > 💡 **Perfect for teams** transitioning from Trello to Smartsheet while maintaining all project history and structure.
 
