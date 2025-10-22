@@ -95,7 +95,7 @@ The build script excludes unnecessary packages (numpy, pandas, matplotlib, scipy
 
 The migrator supports two modes for member email addresses:
 
-1. **Auto-generation** (default): Converts "Adrien SIMARD" → "adrien.simard@epfl.ch"
+1. **Auto-generation** (default): Converts "John SMITH" → "john.smith@epfl.ch"
    - Implementation in `generate_email_from_name()`: splits name, takes first and last parts
 
 2. **Excel mapping file** (optional): Two-column format (Name | Email)

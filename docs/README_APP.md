@@ -72,9 +72,9 @@ Créez un fichier Excel avec 2 colonnes:
 
 | Members          | email                        |
 |------------------|------------------------------|
-| Adrien SIMARD    | adrien.simard@epfl.ch       |
-| Roberto          | roberto.castello@epfl.ch    |
-| Anna Fournier    | anna.fournier@sdsc.ethz.ch  |
+| John Smith       | john.smith@example.com       |
+| Roberto Garcia   | roberto.garcia@example.com   |
+| Anna Miller      | anna.miller@example.com      |
 
 **Format**:
 - Colonne A: Nom complet (tel qu'il apparaît dans Trello)

@@ -324,10 +324,10 @@ class TrelloToSmartsheetMigrator:
         Generate an EPFL email address from a full name.
 
         Args:
-            full_name: Person's full name (e.g., "Adrien SIMARD")
+            full_name: Person's full name (e.g., "John SMITH")
 
         Returns:
-            Email address in format prenom.nom@epfl.ch
+            Email address in format firstname.lastname@epfl.ch
         """
         # Clean and split the name
         name_parts = full_name.strip().split()

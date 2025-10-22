@@ -123,8 +123,8 @@ If you want to provide custom email addresses, create an Excel file with this st
 
 | Name | Email |
 |------|-------|
-| Adrien SIMARD | adrien.simard@epfl.ch |
-| John Doe | john.doe@example.com |
+| John Smith | john.smith@example.com |
+| Jane Doe | jane.doe@example.com |
 
 - **Column 1**: Full name (as it appears in Trello)
 - **Column 2**: Corresponding email address
