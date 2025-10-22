@@ -69,6 +69,8 @@ Desktop.ini
 
 # Excel mapping files (user data)
 *.xlsx
+# Exception: allow example file
+!email_mapping_example.xlsx
 
 # Temporary files
 *.tmp
